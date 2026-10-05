@@ -1,0 +1,7 @@
+sleep_hours,study_hours,screen_time_hours,physical_activity_days,academic_workload,exam_frequency,mood_score,social_support_score,attendance_percent,stress_level
+8,3,2,5,3,1,8,9,95,Low
+7,4,3,4,4,2,7,8,90,Low
+6,5,5,3,6,3,6,6,85,Moderate
+5,7,6,2,7,4,5,5,78,Moderate
+4,9,8,1,9,5,3,3,70,High
+3,10,9,0,10,6,2,2,65,High
